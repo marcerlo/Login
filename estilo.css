@@ -17,7 +17,7 @@ text-align: center;
 /* ---importacion de la imagenes--------- */
 .login--banner{
 
-background-image: url(/img/Fondo.jpg);
+background-image: url(img/Fondo.jpg);
 background-size: cover;
 background-repeat: no-repeat;
 background-position: center;
